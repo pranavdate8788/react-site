@@ -3,7 +3,7 @@
  export default function Header
  () {
    return (
-     <div className="flex bg-slate-400  justify-between p-2 h-16  ">
+     <div className="flex bg-slate-100  justify-between p-2 h-16  ">
     <div className="flex items-center gap-9 p-2 ">
           <i className="fa-solid fa-bars" id="menubars"></i>
           <span className="mytutor">MyTutor</span>
